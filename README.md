@@ -7,4 +7,4 @@
 - ✨ 一些额外的兴趣:二次元/航空航天/摄影/阅读;
 - 💬 思考下一个做什么项目(~~挖什么坑~~)中......
 - 📧 我的邮箱(两个均可):[ningyue@738ngx.site](mailto:ningyue@738ngx.site)或[jny738ngx@stu.sufe.edu.cn](mailto:jny738ngx@stu.sufe.edu.cn);
-[](./630UR-Tennoji-Rina-I-Feel-Really-Happy-Right-Now-Kitty-Rina-b2Goqr.png)
+()[./630UR-Tennoji-Rina-I-Feel-Really-Happy-Right-Now-Kitty-Rina-b2Goqr.png]
