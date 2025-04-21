@@ -8,7 +8,7 @@
 - 📧 邮箱:[jny738ngx@gmail.com](mailto:jny738ngx@gmail.com)或[jny738ngx@stu.sufe.edu.cn](mailto:jny738ngx@stu.sufe.edu.cn);
 
 <p align="center">
-<img alt="738NGX's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=738NGX&show_icons=true&include_all_commits=true&theme=transparent">
+<img alt="738NGX's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=738NGX&show_icons=true&include_all_commits=true&theme=transparent&hide_rank=true">
 <img alt="738NGX's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=738NGX&theme=transparent">
 </p>
 
