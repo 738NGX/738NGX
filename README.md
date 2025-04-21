@@ -9,7 +9,7 @@
 
 <p align="center">
 <img alt="738NGX's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=738NGX&show_icons=true&include_all_commits=true&theme=transparent&hide_rank=true">
-<img alt="738NGX's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=738NGX&theme=transparent">
+<img alt="738NGX's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=738NGX&theme=transparent&layout=donut">
 </p>
 
 <!--![bg](./630UR-Tennoji-Rina-I-Feel-Really-Happy-Right-Now-Kitty-Rina-b2Goqr.png)-->
