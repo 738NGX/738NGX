@@ -1,6 +1,6 @@
 ### About Me
 
-- 👋 Welcome to my GitHub page! I’m currently an undergrad in Computer Science at SCAI, Sufe. Other profiles: [My Blog](https://www.738ngx.site/), [Bilibili](https://space.bilibili.com/115446986), [X (Twitter)](https://twitter.com/jny738ngx).
+- 👋 Welcome to my GitHub page! I’m currently an undergrad in Computer Science at SCAI, Sufe. Other profiles: [My Blog](https://blog.738ngx.site/), [Bilibili](https://space.bilibili.com/115446986), [X (Twitter)](https://twitter.com/jny738ngx).
 
 - 📝 Languages & Technologies: C++ / JavaScript / TypeScript / C# / Python.
 
