@@ -12,7 +12,7 @@
 
 - 📧 Reach me at [jny738ngx@gmail.com](mailto:jny738ngx@gmail.com) or [jny738ngx@stu.sufe.edu.cn](mailto:jny738ngx@stu.sufe.edu.cn).
 
-<div align="center">
+<!--div align="center">
   <div
     style="
       display: flex;
@@ -39,5 +39,5 @@
       style="width: 22%; min-width: 200px; height: auto;"
     >
   </div>
-</div>
+</div-->
 
