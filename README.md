@@ -20,7 +20,7 @@
     "
   >
     <img
-      src="https://github-readme-stats.vercel.app/api?username=738NGX&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent"
+      src="https://github-readme-stats-738ngx.vercel.app/api?username=738NGX&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent"
       alt="GitHub Stats"
       style="width: 32%; min-width: 200px; height: auto;"
     >
@@ -30,7 +30,7 @@
       style="width: 41%; min-width: 200px; height: auto; border-radius: 10px;"
     >
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=738NGX&theme=transparent"
+      src="https://github-readme-stats-738ngx.vercel.app/api/top-langs/?username=738NGX&theme=transparent"
       alt="Top Languages"
       style="width: 22%; min-width: 200px; height: auto;"
     >
