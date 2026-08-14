@@ -1,12 +1,12 @@
 ### About Me
 
-- 👋 Welcome to my GitHub page! I’m currently a student at SCAI, Sufe. Other profiles: [My Blog](https://blog.738ngx.site/), [Bilibili](https://space.bilibili.com/115446986), [X (Twitter)](https://twitter.com/jny738ngx).
+- 👋 Welcome to my GitHub page! I’m currently a student at SCAI, Sufe. Other profiles: [My Blog](https://738ngx.site/), [Bilibili](https://space.bilibili.com/115446986), [X (Twitter)](https://twitter.com/jny738ngx).
 
 - 📝 Languages & Technologies: C++ / JavaScript / TypeScript / C# / Python.
 
 - ✨ Interests: ACGN, transportation, photography, history…  Huge fan of LoveLive! — top groups are Aqours and Nijigasaki; Kunikida Hanamaru & Tennoji Rina enthusiast.
 
-- 📧 Reach me at [jny738ngx@gmail.com](mailto:jny738ngx@gmail.com) or [jny738ngx@stu.sufe.edu.cn](mailto:jny738ngx@stu.sufe.edu.cn).
+- 📧 Reach me at [rina738ngx@gmail.com](mailto:rina738ngx@gmail.com).
 
 <div align="center">
   <div
